@@ -1,4 +1,4 @@
-# it-helpdesk-automation
+# IT Help Desk Automation Toolkit
 
 This project simulates common IT Help Desk tasks using Python.  
 It demonstrates automation skills relevant to technical support, IT operations, and system administration.  
@@ -39,13 +39,13 @@ Python 3
 pandas
 psutil
 
-Notes
+## Notes
 
 The included CSV files (users.csv, users_updated.csv) are sample datasets for demonstration.
 
 In a real IT environment, these scripts could integrate with Active Directory, cloud APIs, or enterprise ticketing systems.
 
-Why This Project: 
+## Why This Project: 
 I created this project to demonstrate how automation can make IT support more efficient. It reflects real-world help desk workflows and highlights my ability to:
 Write clean, maintainable Python code
 Automate repetitive technical tasks
