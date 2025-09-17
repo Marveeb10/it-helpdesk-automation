@@ -3,7 +3,7 @@
 This project simulates common IT Help Desk tasks using Python.  
 It demonstrates automation skills relevant to technical support, IT operations, and system administration.  
 
-The toolkit includes password resets, bulk file renaming, temporary file cleanup, and basic system monitoring — all built with Python, pandas, and psutil.  
+The toolkit includes password resets, bulk file renaming, temporary file cleanup, and basic system monitoring, all built with Python, pandas, and psutil.  
 
 ---
 
@@ -24,15 +24,23 @@ The toolkit includes password resets, bulk file renaming, temporary file cleanup
 ---
 
 ## Project Structure
-├── main.py # Main launcher with menu interface
-├── reset_password.py # Password reset script
-├── batch_rename.py # Bulk file renaming script
-├── cleanup_temp.py # Temporary file cleanup script
-├── monitor_system.py # System monitoring script
-├── users.csv # Sample user accounts dataset
-├── users_updated.csv # Updated users file (after reset)
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+main.py # Main launcher with menu interface
+
+reset_password.py # Password reset script
+
+batch_rename.py # Bulk file renaming script
+
+cleanup_temp.py # Temporary file cleanup script
+
+monitor_system.py # System monitoring script
+
+users.csv # Sample user accounts dataset
+
+users_updated.csv # Updated users file (after reset)
+
+requirements.txt # Dependencies
+
+README.md # Project documentation
 
 Technologies Used:
 Python 3
